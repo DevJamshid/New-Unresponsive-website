@@ -1,0 +1,102 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 64px;
+  line-height: 120%;
+  color: white;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 28px;
+}
+
+#first-section {
+  background-image: url("/images/first-bg.jpg");
+  max-width: 1440px;
+  margin: 0 auto;
+  overflow: auto;
+  background-repeat: no-repeat;
+}
+
+#second-section {
+  background-image: url("/images/second-bg.jpg");
+  max-width: 1440px;
+  margin: 0 auto;
+  overflow: auto;
+  background-repeat: no-repeat;
+}
+
+.main-text-container {
+  padding-top: 200px;
+  padding-bottom: 500px;
+  padding-left: 142px;
+  padding-right: 554px;
+}
+
+.second-text-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.third-text-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fourth-text-container {
+  padding-top: 200px;
+  padding-bottom: 300px;
+  padding-left: 142px;
+}
+
+.main-sentence {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 120%;
+  padding-bottom: 15px;
+}
+
+.second-sentence {
+  width: 800px;
+  height: 539px;
+  padding-right: 142px;
+  padding-bottom: 24px;
+}
+
+.third-sentence {
+  padding-left: 126px;
+  padding-right: 107px;
+}
+
+.fourth-sentence {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 72px;
+  line-height: 120%;
+  padding-bottom: 15px;
+  padding-right: 315px;
+  color: #ffffff;
+}
+
+.first-pets-img {
+  width: 442px;
+  height: 672px;
+  padding-left: 142px;
+  box-shadow: #3e2203;
+}
+
+.second-pets-img {
+  width: 442px;
+  height: 672px;
+  padding-right: 554px;
+  box-shadow: #3e2203;
+}

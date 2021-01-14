@@ -1,0 +1,42 @@
+.main-paragraph {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  padding-bottom: 55px;
+  opacity: 80%;
+}
+
+.second-paragraph {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  padding-bottom: 32px;
+  padding-top: 24px;
+  color: white;
+  opacity: 90%;
+}
+
+.third-paragraph {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  padding-bottom: 32px;
+  padding-top: 24px;
+  color: white;
+  opacity: 90%;
+}
+
+.fourth-paragraph {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 180%;
+  padding-bottom: 55px;
+  padding-top: 24px;
+  padding-right: 650px;
+  color: white;
+  opacity: 90%;
+}

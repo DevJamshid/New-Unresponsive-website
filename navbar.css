@@ -1,0 +1,29 @@
+.logo {
+  padding-top: 40px;
+  padding-left: 142px;
+  cursor: pointer;
+}
+
+.logo:hover {
+  color: rgba(253, 180, 97, 0.82);
+}
+
+nav {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  padding-right: 50px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+li {
+  padding-right: 28px;
+  padding-top: 30px;
+}

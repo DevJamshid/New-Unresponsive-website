@@ -1,0 +1,58 @@
+a {
+  text-decoration: none;
+  color: #3e2203;
+}
+
+a:hover {
+  color: rgba(253, 180, 97, 0.82);
+}
+
+.donate-btn {
+  margin-right: 24px;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  border: unset;
+  width: 150px;
+  height: 51px;
+  color: #3e2203;
+  background: rgba(253, 180, 97, 0.82);
+  border-radius: 8px;
+}
+
+.donate-btn:hover {
+  transform: scale(1.1);
+}
+
+.learn-btn {
+  margin-right: 24px;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  width: 150px;
+  height: 51px;
+  color: #3e2203;
+  background: transparent;
+  border-radius: 8px;
+}
+
+.learn-btn:hover {
+  transform: scale(1.1);
+}
+
+.learn-down-btn {
+  margin-right: 24px;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  width: 150px;
+  height: 51px;
+  color: rgba(253, 180, 97, 0.82);
+  background: transparent;
+  border-radius: 8px;
+  border-color: rgba(253, 180, 97, 0.82);
+}
+
+.learn-down-btn:hover {
+  transform: scale(1.1);
+}

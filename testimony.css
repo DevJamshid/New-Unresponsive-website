@@ -1,0 +1,60 @@
+.first-testimony {
+  display: flex;
+  justify-items: flex-start;
+  margin-left: 650px;
+}
+
+.second-testimony {
+  display: flex;
+  justify-items: flex-start;
+  margin-left: 126px;
+  margin-right: 500px;
+  padding-bottom: 40px;
+}
+
+.third-testimony {
+  display: flex;
+  justify-items: flex-start;
+  margin-left: 126px;
+  margin-right: 500px;
+  padding-bottom: 200px;
+}
+
+.testimony-1 {
+  font-family: "Poppins", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+  color: white;
+  opacity: 90%;
+  padding-right: 150px;
+  padding-left: 24px;
+  padding-bottom: 265px;
+}
+
+.testimony-2 {
+  justify-content: space-between;
+  font-family: "Poppins", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+  color: white;
+  opacity: 90%;
+  padding-right: 150px;
+  padding-left: 24px;
+}
+
+.testimony-3 {
+  justify-content: space-between;
+  font-family: "Poppins", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 180%;
+  color: white;
+  opacity: 90%;
+  padding-right: 150px;
+  padding-left: 24px;
+}
